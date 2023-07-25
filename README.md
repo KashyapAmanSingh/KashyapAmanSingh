@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kashyap Aman Singh</h1>
 <h3 align="center">🚀 Advanced MERN Stack Developer 🌐 🌟 Leveling Up with Next.js 🚀 🇮🇳 Proudly from India 🇮🇳 Passionate about crafting innovative web solutions and pushing the boundaries of web development! Let's create digital wonders together! ✨🌟</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/7SvE.gif">
-
+<img align="right" alt="coding" width="400" src="[https://i.gifer.com/7SvE.gif](https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashyapamansingh" alt="kashyapamansingh" /></a> </p>
 
@@ -47,4 +46,60 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashyapamansingh&show_icons=true&locale=en" alt="kashyapamansingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapamansingh&" alt="kashyapamansingh" /></p>
+
+
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+name: Generate Snake
+
+# Controls when the action will run. This action runs every 6 hours.
+
+on:
+  schedule:
+      # every 6 hours
+    - cron: "0 */6 * * *"
+
+# This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+
+# The sequence of runs in this workflow:
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Generates the snake  
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: KashyapAmanSingh
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
+
+      # Push the changes
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
