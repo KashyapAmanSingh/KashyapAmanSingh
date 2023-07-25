@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kashyap Aman Singh</h1>
 <h3 align="center">🚀 Advanced MERN Stack Developer 🌐 🌟 Leveling Up with Next.js 🚀 🇮🇳 Proudly from India 🇮🇳 Passionate about crafting innovative web solutions and pushing the boundaries of web development! Let's create digital wonders together! ✨🌟</h3>
 
-<img align="right" alt="coding" width="400" src="[https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif](https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)"> 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashyapamansingh" alt="kashyapamansingh" /></a> </p>
 
 - 🔭 I’m currently [🚀 Working on a Revolutionary MERN Gym Website! 💪 🌐 Personalized Workout, Diet Planner, E-Commerce & More! 🔥 Bringing Fitness Enthusiasts Together with Chat & Video Calls! 💻 Secure Payments & User-Friendly Interface. Excited to unveil this cutting-edge project! Let's make a fitness revolution! 🏋️‍♂️✨](soon....)
