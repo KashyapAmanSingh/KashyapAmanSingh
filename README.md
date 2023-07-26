@@ -4,7 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
 <hr>
 <hr>
 - 🔭 I’m currently [🚀 Working on a Revolutionary MERN Gym Website! 💪 🌐 Personalized Workout, Diet Planner, E-Commerce & More! 🔥 Bringing Fitness Enthusiasts Together with Chat & Video Calls! 💻 Secure Payments & User-Friendly Interface. Excited to unveil this cutting-edge project! Let's make a fitness revolution! 🏋️‍♂️✨](soon....)
