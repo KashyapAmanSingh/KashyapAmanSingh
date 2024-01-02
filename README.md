@@ -7,23 +7,25 @@
 
 <hr>
 <hr>
-- 🔭 I’m currently [🚀 Working on a Revolutionary MERN Gym Website! 💪 🌐 Personalized Workout, Diet Planner, E-Commerce & More! 🔥 Bringing Fitness Enthusiasts Together with Chat & Video Calls! 💻 Secure Payments & User-Friendly Interface. Excited to unveil this cutting-edge project! Let's make a fitness revolution! 🏋️‍♂️✨](soon....)
+-  🔭 Currently, I'm passionately engaged in enhancing my code quality and optimizing all the projects I've developed. Additionally, I'm diving into the realms of Accessibility and Testing to elevate my skills further. Stay tuned for exciting improvements! 🏋️‍♂️✨  
 
-- 🌱 I’m currently learning **Next js**
+- 🌐 Former Intern at Almabetter ✨
+ 
+- 🌱 Currently, I'm on a journey to master the art of learning efficiently, especially when it comes to Data Structures and Algorithms, along with project development
 
-- 👯 I’m looking to collaborate on [Dairy E-Commerce Project with Next js](soon...)
+- 👯 I’m looking to collaborate on [Chit Chat App with React Native](https://github.com/KashyapAmanSingh/ChitChats3.git)
 
-- 👨‍💻 All of my projects are available at [soon...](soon...)
+- 👨‍💻 All of my projects are available at (https://portfolio-vitee.vercel.app/)
 
-- 📝 I regularly write articles on [Evolutionary Tech Advancements](Evolutionary Tech Advancements)
+- 📝 I regularly make videos on [Evolutionary Tech Advancements](Evolutionary Tech Advancements)
 
-- 💬 Ask me about **JS/React,Redux,Mongodb,Express,Nodejs,Next Js,Bootstrape,Framer Motion,Material Ui,Three Js,TypeScript**
+- 💬 Ask me about **JS/React,Redux,Next Js,Bootstrape,Framer Motion,TypeScript,React Native,Three Js,,Mongodb,Express,Nodejs,**
 
 - 📫 How to reach me **coder85113@gmail.com**
 
-- 📄 Know about my experiences [Soon...](Soon...)
 
-- ⚡ Fun fact **As a fitness enthusiast and coming from a village background, I combined my passions to create two exciting projects - a cutting-edge Gym Website to promote health and wellness in the digital age, and a Dairy E-Commerce Website to empower local farmers and bring their products to a global audience! 🏋️‍♂️🌾 It's incredible how technology can bridge the gap between fitness and farming, and I'm excited to share these projects with you! 🚀✨ Soon...**
+-⚡ Fun fact: As a fitness enthusiast with a village background, I've blended my passions to craft a range of exciting projects. From developing a cutting-edge React Native chat application with video call features, creating an e-commerce platform for fitness enthusiasts with secure Stripe payment integration and an intuitive admin dashboard, to designing a comprehensive Gym App that offers exercise guidance along with related video content. It's fascinating how technology enables me to connect fitness and farming, and I'm eager to share these projects with you! 🚀✨
+
 <hr>
 <hr>
 ### Blogs posts
